@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707817500 source:/home/wrexes/Documents/1CDEV/D03/plates/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
